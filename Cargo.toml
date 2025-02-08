@@ -1,0 +1,10 @@
+[package]
+name = "portfolio"
+version = "0.1.0"
+authors = ["Julian Ollivieira"]
+edition = "2021"
+repository = "https://github.com/julianollivieira/portfolio"
+license = "MIT"
+
+[dependencies]
+snx = "0.0.3"
